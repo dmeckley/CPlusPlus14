@@ -1,0 +1,348 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<< /F1 2 0 R /F2 3 0 R /F3 4 0 R >>
+endobj
+2 0 obj
+<< /BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font >>
+endobj
+3 0 obj
+<< /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font >>
+endobj
+4 0 obj
+<< /BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font >>
+endobj
+5 0 obj
+<< /Contents 13 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 12 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
+endobj
+6 0 obj
+<< /Outlines 8 0 R /PageLabels 14 0 R /PageMode /UseNone /Pages 12 0 R /Type /Catalog >>
+endobj
+7 0 obj
+<< /Author () /CreationDate (D:20160907104302+06'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20160907104302+06'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (Assignment 1: C++ Features) /Trapped /False >>
+endobj
+8 0 obj
+<< /Count 3 /First 9 0 R /Last 11 0 R /Type /Outlines >>
+endobj
+9 0 obj
+<< /Dest [ 5 0 R /XYZ 62.69291 653.0236 0 ] /Next 10 0 R /Parent 8 0 R /Title (Converting Old Work) >>
+endobj
+10 0 obj
+<< /Dest [ 5 0 R /XYZ 62.69291 442.8236 0 ] /Next 11 0 R /Parent 8 0 R /Prev 9 0 R /Title (Converting a Data Structure) >>
+endobj
+11 0 obj
+<< /Dest [ 5 0 R /XYZ 62.69291 206.6236 0 ] /Parent 8 0 R /Prev 10 0 R /Title (Turn it in) >>
+endobj
+12 0 obj
+<< /Count 1 /Kids [ 5 0 R ] /Type /Pages >>
+endobj
+13 0 obj
+<< /Length 5562 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 99.90488 0 Td (Assignment 1: C++ Features) Tj T* -99.90488 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 719.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Due Date: ) Tj /F1 10 Tf (Turn this in before class on Thursday, September 8th.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 701.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (This assignment has two parts:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 695.0236 cm
+Q
+q
+1 0 0 1 62.69291 695.0236 cm
+Q
+q
+1 0 0 1 62.69291 683.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (1.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Converting some of your old work to use the STL and new C++ fetaures.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 677.0236 cm
+Q
+q
+1 0 0 1 62.69291 665.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (2.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Converting a data structure you wrote to work with uniform initialization and range-based for loops.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 665.0236 cm
+Q
+q
+1 0 0 1 62.69291 632.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Converting Old Work) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 602.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.094987 Tw (This part is fairly trivial. Take one or more old C++ assignments \(from 240, 245, 350, etc.\) and convert) Tj T* 0 Tw (them:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 596.0236 cm
+Q
+q
+1 0 0 1 62.69291 596.0236 cm
+Q
+q
+1 0 0 1 62.69291 584.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Use uniform initialization syntax) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 578.0236 cm
+Q
+q
+1 0 0 1 62.69291 566.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Use a vector instead of a dynamic array) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 560.0236 cm
+Q
+q
+1 0 0 1 62.69291 548.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Use a range-based for loop instead of an indexed loop.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 542.0236 cm
+Q
+q
+1 0 0 1 62.69291 530.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Use the auto keyword.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 530.0236 cm
+Q
+q
+1 0 0 1 62.69291 500.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .013876 Tw (Create a README.txt file; list at least two places in your assignment\(s\) where you used each of the above) Tj T* 0 Tw (features. E.g.:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 454.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 36 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F3 10 Tf 12 TL (homework2.cpp, line 10: changed array argument to vector for function foo) Tj T* (homework2.cpp, line 20: constructed bar object with {} instead of \(\)) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 421.8236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Converting a Data Structure) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 379.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .037988 Tw (You wrote a number of data structures, a few in 245 and many more in 350. Pick one. Add additional code) Tj T* 0 Tw .392619 Tw (to make your data structure work with an initializer list and range-based for loops. I should be able to use) Tj T* 0 Tw (your code like this:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 250.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 120 re B*
+Q
+q
+BT 1 0 0 1 0 98 Tm 12 TL /F3 10 Tf 0 0 0 rg (#include "YourContainer.h") Tj T*  T* (int main\(\)) Tj T* ({) Tj T* (    YourContainer) Tj (<) Tj (int) Tj (>) Tj ( numbers = {1, 2, 3, 4, 5};) Tj T*  T* (    for \(int n: numbers\)) Tj T* (        cout ) Tj (<) Tj (<) Tj ( n ) Tj (<) Tj (<) Tj ( endl;) Tj T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 218.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .201751 Tw (Obviously, I'll change "YourContainer.h" to the name of your header file. Use google to figure out how this) Tj T* 0 Tw (works; it's not in your book. Cite whatever web pages you use in a comment in your code.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 185.6236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Turn it in) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 155.6236 cm
+q
+BT 1 0 0 1 0 14 Tm 2.643735 Tw 12 TL /F1 10 Tf 0 0 0 rg (Make a folder labeled ) Tj /F3 10 Tf 0 0 0 rg (Assignment) Tj ( ) Tj (1 ) Tj /F1 10 Tf 0 0 0 rg (in your turn-in directory and copy in your source files and) Tj T* 0 Tw (README.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+14 0 obj
+<< /Nums [ 0 15 0 R ] >>
+endobj
+15 0 obj
+<< /S /D /St 1 >>
+endobj
+xref
+0 16
+0000000000 65535 f
+0000000075 00000 n
+0000000129 00000 n
+0000000239 00000 n
+0000000354 00000 n
+0000000462 00000 n
+0000000671 00000 n
+0000000778 00000 n
+0000001065 00000 n
+0000001140 00000 n
+0000001261 00000 n
+0000001403 00000 n
+0000001516 00000 n
+0000001579 00000 n
+0000007198 00000 n
+0000007242 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com)
+ [(\255\335\204\200\373\030\373qEr\021\035XyjC) (\255\335\204\200\373\030\373qEr\021\035XyjC)]
+ /Info 7 0 R /Root 6 0 R /Size 16 >>
+startxref
+7279
+%%EOF
